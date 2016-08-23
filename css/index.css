@@ -1,0 +1,43 @@
+
+.banner{height: 330px; margin-top: 28px; margin-bottom: 30px;}
+.banner .bannerright{width: 240px;background-color: #fff;border: 1px #7d7d7d solid;}
+.banner .bannerright .brtop{height: 90px;border-bottom: 1px solid #ccc;}
+.banner .bannerright .brtop h3{ font-size: 18px; line-height: 38px; margin-left: 10px;}
+.banner .bannerright .brtop a{display:inline-block;width:102px;height:36px;background-color:#e75606;color: #fff;
+    font: bolder 15px/36px 微软雅黑;text-align: center; margin-left: 10px; }
+
+.banner .bannerright .brmid{height: 148px;border-bottom: 1px solid #ccc;}
+.banner .bannerright .brmid h3{ font-size:16px; line-height: 28px; margin-left: 10px;}
+.banner .bannerright .brmid a{display:inline-block;width:105px;height:29px;background-color:#ccc;color:black;
+    font: 12px/29px 微软雅黑;text-align: center; margin-left: 10px; margin-top: 4px; }
+
+.banner .bannerright .brbot{height: 88px; background-color: #ccc;}
+.banner .bannerright .brbot h4{ font-size:13px; line-height: 25px; margin-left: 10px;}
+.banner .bannerright .brbot h5{ font-size:12px; line-height: 14px; margin-left: 10px;color: #505050;}
+
+.main .main_left .main_list{height: 406px; margin-right:8px;}
+.main .main_left .main_list h2{ width:368px;height:35px;background-color:#ccc;font-size:18px;line-height:35px;color: #006600;}
+.main .main_left .main_list h2 p{ margin-left: 8px;}
+.main .main_left .main_list ul li{height: 36px;}
+.main .main_left .main_list ul li a{display: inline-block;font-size: 12px;line-height:36px;color: #333333;}
+.main .main_left .main_list ul li span{float: right; color: #ccc;line-height:36px;}
+.main .main_left .main_list ul li img{line-height:36px;}
+
+.main .main_right .main_list{width: 240px;height: 406px;}
+.main .main_right .main_list h2{ width:240px;height:35px;background-color:#ccc;font-size:18px;line-height:35px;color: #006600;}
+.main .main_right .main_list h2 p{ margin-left: 8px;}
+.main .main_right .main_list ul li a{display: inline-block;font-size: 12px;line-height:36px;color: #333333;}
+.main .main_right .main_list ul li span{float: right; color: #ccc;line-height:36px;}
+
+.ulbot li{list-style:disc;margin-left: 20px;}
+.main .main_right .main_list h3{line-height:48px;color:#006600;font-size: 14px;padding-left:8px;}
+.main .main_right .listfora a{font-size: 12px;color:#333;display: inline-block;width:50px;height:24px;line-height: 24px;margin-right:5px;padding-left:8px;}
+
+.main .main_list{border: 1px #7d7d7d solid; margin-bottom: 20px;}
+
+.main_list_first{width: 368px;}
+.main_list_sec{width: 368px;}
+
+.li_a{}
+
+

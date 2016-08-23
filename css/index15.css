@@ -1,0 +1,26 @@
+.main_top{height: 36px;border-bottom: 2px solid #5c5c5c;width: 1000px;}
+.main_top span{line-height: 36px;display: inline-block;margin: 0 10px;}
+.main_top img{display: inline-block; margin-left: 20px;}
+.main_top a{color: #5c5c5c;}
+
+.main_left{width: 718px;background-color: #f6f6f6;padding-bottom:392px;padding-top: 27px;padding-left: 12px;}
+
+.main_right{width:250px;margin-top: 27px;}
+.main_right h2{height: 36px;background-color:#333333;width:240px;color: #fff;line-height: 36px;font-size: 16px;padding-left:10px;}
+.main_right .diao{background-color:  #e6e6e6;padding-top: 12px;width: 240px;padding-left: 10px;padding-bottom: 12px;  }
+.main_right .diao a{display: inline-block;width: 40px;height: 26px;border-radius: 5px;color: #666666;background-color: #eeeeee;
+    margin: 6px 5px 6px 6px;line-height: 26px;text-align: center;}
+.main_right .diao a:first-child{background-color: #1f9400;}
+
+.main_right .diao_true{padding-left:20px;width: 230px;}
+.main_right .diao_true h3{position: relative;}
+.main_right .diao_true a{color: #333;font-weight: bold;}
+.main_right .diao_true h3 img{position:absolute;top: 5px;left: -10px;}
+
+.main_right .diao_three{padding-bottom: 250px;}
+.main_right .diao_three a{width:50px;height: 30px; margin:3px 6px 3px 1px;border-radius: 2px;position: relative;padding-left: 20px;}
+.main_right .diao_three a img{position:absolute;top:7px;left:6px;}
+
+.main_left h2{color: #0381d6;line-height: 54px;font-size:24px;font-weight:normal;margin-top: 5px;}
+.main_left .box_topbor{width: 680px;height: 300px;border-top: 1px solid #ccc;padding-top: 12px;margin-top: 17px;}
+.main_left span{line-height: 30px; margin-right: 20px;}

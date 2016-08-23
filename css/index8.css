@@ -1,0 +1,48 @@
+.top_nav .inner{border-bottom: 2px solid #333333;padding-bottom: 8px;}
+.top_nav .sort{margin-top: 8px;}
+.top_nav .sort ul{*float: left;*width: 1000px;*margin-bottom: 5px;}
+.top_nav .sort ul li{display: inline-block;font-size:12px;font-weight: bolder;*float: left;}
+.top_nav .sort ul li a{color: #0b0b0b;}
+.top_nav .sort ul li a:hover{background-color: #23a700;color: #fff;}
+.top_nav .sort ul li span{color: #ccc;margin: 0 9px 0 9px;}
+
+.main{margin-top: 12px;}
+.main_left{width: 730px;background-color: #f6f6f6;}
+
+.main_right{width:250px;}
+.main_right h2{height: 36px;background-color:#333333;width:250px;color: #fff;line-height: 36px;font-size: 16px;padding-left:10px;}
+.main_right .diao{background-color:  #e6e6e6;padding-top: 12px;width: 250px;padding-left: 10px;padding-bottom: 12px;  }
+.main_right .diao a{display: inline-block;width: 40px;height: 26px;border-radius: 5px;color: #666666;background-color: #eeeeee;
+    margin: 6px 5px 6px 6px;line-height: 26px;text-align: center;}
+.main_right .diao a:first-child{background-color: #1f9400;}
+
+.main_right .diao_true{padding-left:20px;width: 240px;}
+.main_right .diao_true h3{position: relative;}
+.main_right .diao_true a{color: #333;font-weight: bold;}
+.main_right .diao_true h3 img{position:absolute;top: 5px;left: -10px;}
+
+.main_right .diao_three{padding-bottom: 250px;}
+.main_right .diao_three a{width:50px;height: 30px; margin:3px 8px 3px 1px;border-radius: 2px;position: relative;padding-left: 20px;}
+.main_right .diao_three a img{position:absolute;top:7px;left:6px;}
+
+.box_top{width: 710px;height: 95px;background-color: #e6e6e6;padding-top: 12px;padding-left: 20px;border-bottom: 1px solid #cccccc;}
+.box_top h2{line-height: 50px;color: #0381d6;font-size: 20px;}
+.box_top span{width: 15px;height: 22px;margin-right: 12px;}
+
+.box_top .box_right{margin-top: 12px;width: 230px;margin-right: 15px;}
+.box_top .box_right p{font-size: 14px;margin-top: 6px;}
+.box_top .box_left{color: #707070}
+
+.box_mid{width: 695px;padding-left: 20px;padding-top:20px;}
+.box_mid .box_left{width: 580px;height: 90px;border-bottom:  1px solid #cccccc;}
+.box_mid .box_left span{line-height:22px;}
+
+.box_mid .box_right{width: 115px;height: 90px;border-bottom:  1px solid #cccccc;}
+.box_mid .box_right button{width: 103px;height: 35px;background-color: #23a600;color: #fff;border-radius:6px;font-weight: bold;margin-bottom:6px;}
+.box_mid .box_right button img{position: relative;top: 2px;left: -5px;}
+
+.box_bot{padding-left: 20px;padding-bottom: 40px;padding-top: 17px;}
+
+
+
+

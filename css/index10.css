@@ -1,0 +1,60 @@
+.main_top{height: 36px;border-bottom: 2px solid #5c5c5c;width: 1000px;}
+.main_top span{line-height: 36px;display: inline-block;margin: 0 10px;}
+.main_top img{display: inline-block; margin-left: 20px;}
+.main_top a{color: #5c5c5c;}
+
+.main_left{width: 718px;background-color: #f6f6f6;padding-bottom: 286px;padding-top: 27px;padding-left: 12px;}
+
+.main_right{width:250px;margin-top: 27px;}
+.main_right h2{height: 36px;background-color:#333333;width:240px;color: #fff;line-height: 36px;font-size: 16px;padding-left:10px;}
+.main_right .diao{background-color:  #e6e6e6;padding-top: 12px;width: 240px;padding-left: 10px;padding-bottom: 12px;  }
+.main_right .diao a{display: inline-block;width: 40px;height: 26px;border-radius: 5px;color: #666666;background-color: #eeeeee;
+    margin: 6px 5px 6px 6px;line-height: 26px;text-align: center;}
+.main_right .diao a:first-child{background-color: #1f9400;}
+
+.main_right .diao_true{padding-left:20px;width: 230px;}
+.main_right .diao_true h3{position: relative;}
+.main_right .diao_true a{color: #333;font-weight: bold;}
+.main_right .diao_true h3 img{position:absolute;top: 5px;left: -10px;}
+
+.main_right .diao_three{padding-bottom: 250px;}
+.main_right .diao_three a{width:50px;height: 30px; margin:3px 6px 3px 1px;border-radius: 2px;position: relative;padding-left: 20px;}
+.main_right .diao_three a img{position:absolute;top:7px;left:6px;}
+
+.main_left .box_left{width: 288px;}
+.main_left .box_left .ul_first{width: 288px;}
+.main_left .box_left .ul_first li{float: left;width: 96px;height: 30px;}
+.main_left .box_left .ul_first li a{display:block; width: 96px;font-size: 14px;font-weight: bold;line-height:15px;text-align: center;color: #0b0b0b;margin-top: 7px;}
+.main_left .box_left .ul_first li:nth-child(2) a{border-right: 1px solid #ccc;}
+.main_left .box_left .ul_first li:nth-child(1){background-color: #333333;}
+.main_left .box_left .ul_first li:nth-child(1) a{color: #fff;}
+
+.main_left .box_left .ul_sec{width: 284px;border: 2px solid #333;}
+.main_left .box_left .ul_sec li{line-height: 30px;}
+.main_left .box_left .ul_sec li a{color: #3366cc;float: right;margin-right: 9px;}
+.main_left .box_left .ul_sec li input{margin: 0 10px;}
+.main_left .box_left .ul_sec li:nth-child(2n+1){background-color: #f3faff;}
+.main_left .box_left .ul_sec li:nth-child(2n){background-color: #ffffff;}
+
+.main_left .box_right{width:410px;;}
+.main_left .box_right .box_gm{width:410px;height: 30px;background-color: #0b0b0b;border-right:  2px solid #333;}
+.main_left .box_right .box_gm span:nth-child(1){color: #fff; float: left;margin-left: 12px;margin-top: 5px;}
+.main_left .box_right .box_gm span:nth-child(2){color: #fff;float: right;margin-right: 12px;margin-top: 5px;}
+
+.main_left .box_right .box_bf{width: 410px;height: 100px;background-color: #666666;position: relative;border-right:  2px solid #333;border-top:  2px solid #333;}
+.main_left .box_right .box_bf img:nth-child(1){position: absolute;top: 20px;left: 11px;}
+.main_left .box_right .box_bf img:nth-child(2){position: absolute;top: 20px;left: 14px;}
+.main_left .box_right .box_bf img:nth-child(3){position: absolute;top: 50px;left: 14px;}
+.main_left .box_right .box_bf img:nth-child(4){position: absolute;top: 65px;left: 26px;}
+.main_left .box_right .box_bf img:nth-child(5){position: absolute;top: 45px;left: 46px;}
+.main_left .box_right .box_bf img:nth-child(6){position: absolute;top: 61px;left: 62px;}
+.main_left .box_right .box_bf img:nth-child(7){position: absolute;top: 51px;left: 90px;}
+.main_left .box_right .box_bf img:nth-child(8){position: absolute;top: 66px;left: 103px;}
+.main_left .box_right .box_bf img:nth-child(9){position: absolute;top: 62px;right: 98px;}
+.main_left .box_right .box_bf img:nth-child(10){position: absolute;top: 62px;right:10px;}
+.main_left .box_right .box_bf img:nth-child(11){position: absolute;top: 59px;right:10px;}
+
+.main_left .box_right .box_gc{width: 410px;height:425px;border-bottom:  2px solid #333;border-right:  2px solid #333;position: relative; }
+.main_left .box_right .box_gc img{margin-top: 26px;margin-left: 100px;}
+.main_left .box_right .box_gc img:nth-child(2){position: absolute;left: -100px;top: 80px;}
+

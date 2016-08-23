@@ -1,0 +1,26 @@
+.main_top{height: 36px;border-bottom: 2px solid #5c5c5c;width: 1000px;}
+.main_top span{line-height: 36px;display: inline-block;margin: 0 10px;}
+.main_top img{display: inline-block; margin-left: 20px;}
+.main_top a{color: #5c5c5c;}
+
+.main_left{width: 718px;background-color: #f6f6f6;padding-bottom: 20px;padding-top: 27px;padding-left: 12px;border-bottom: 1px solid #ccc;}
+
+.main_right{width:250px;margin-top: 27px;}
+.main_right h2{height: 36px;background-color:#333333;width:240px;color: #fff;line-height: 36px;font-size: 16px;padding-left:10px;}
+.main_right .diao{height: 380px; background-color:  #e6e6e6;width: 240px;padding-left: 10px;padding-bottom: 12px;  }
+.main_right .diao a{display: inline-block;width: 40px;height: 26px;border-radius: 5px;color: #666666;background-color: #eeeeee;
+    margin: 6px 5px 6px 6px;line-height: 26px;text-align: center;}
+.main_right .diao a:first-child{background-color: #1f9400;}
+
+.main_right .redian img{width: 230px;height: 126px;}
+.main_right .redian p{color: #0044b5;font-weight: bold;margin-top: 6px;}
+.main_right .redian span{display:block; margin-top: 3px;margin-bottom: 15px;}
+
+.main_right .diao span{display:inline-block;line-height:18px;font-size: 14px;margin-top:19px;margin-right:7px;}
+.main_right .diao .sp{display:inline-block; width:18px;height:18px;background-color: #259b24;border-radius:2px; color: #fff;}
+
+.main_left h2{width: 718px;height: 58px;line-height: 58px;text-align: center;border-bottom: 1px solid #dfdfdf;}
+.main_left h3{width: 718px;color: #999999;font-size: 12px;font-weight: normal;text-align: center;line-height: 48px;}
+.main_left h4{line-height: 40px;font-weight: normal;margin-top: 20px;}
+.main_left p{line-height: 18px;margin-top: 10px;margin-bottom:20px; text-indent: 2em;}
+

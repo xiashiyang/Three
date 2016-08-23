@@ -1,0 +1,30 @@
+.main .main_top{height: 300px; background-color: #2e9f00;}
+
+.main .main_top a{margin-top: 131px;display: inline-block;}
+.main .main_top h2{width: 800px;height: 74px;background-color: #333333;color: #bfbfbf;line-height: 74px;font-size: 18px;font-weight: normal;
+padding-left:20px;}
+.main .main_top span{display: inline-block;}
+
+.main .main_bot .box_dl{height: 360px;background-color: #f1f1f1;border-bottom: 2px solid #b5b4b4;}
+.main .main_bot .box_dl input:nth-child(1){background: #fff url("../images/index11_1.png") no-repeat 5px;}
+.main .main_bot .box_dl input:nth-child(2){background: #fff url("../images/index11_2.png") no-repeat 5px;}
+.main .main_bot .box_dl input:nth-child(3){background: #fff url("../images/index11_3.png") no-repeat 5px;}
+.main .main_bot .box_dl input:nth-child(4){background: #fff url("../images/index11_3.png") no-repeat 5px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

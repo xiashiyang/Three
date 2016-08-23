@@ -1,0 +1,43 @@
+@charset "utf-8";
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, fieldset, button, input, textarea, th, td,img {
+    margin: 0;
+    padding: 0;
+}
+img,input,textarea,a{ border: 0;outline: none;}
+a{text-decoration: none;}
+li{list-style: none;}
+i{font-style: normal;}
+textarea{resize: none;}
+/*公用css样式*/
+body{font-size: 12px;font-family: 微软雅黑;background: url("../images/index_headerbg_03.png") repeat-x}
+.inner{ width: 1000px;margin: 0 auto;}
+.fl{float: left;_display:inline;}
+.fr{float: right;_display:inline;}
+.clear{clear: both;}
+.header{ }
+
+.top{height: 41px; background: url("../images/top_bg_02.png")}
+.top p{color: #ccc; margin-top: 7px;}
+.top ul li{display: inline-block;margin-top: 5px;*float: left}
+.top ul li a{color: #d8d8d8; display: inline-block; margin-right: 12px;}
+
+.logosearch a{*display: block;*width: 287px;*height: 91px;*float: left}
+
+.nav .inner{background-color: #333333;*height: 46px;}
+.nav .inner ul li{display: inline-block; padding:7px 35px;*float: left;}
+.nav .inner ul li:hover{background-color: #414141;}
+.nav .inner ul li a{ color: #fff;font-size: 12px;}
+.nav .inner ul li p{ color: #ccc;font-size: 8px;-webkit-transform: scale(0.7);}
+
+.lianjie .inner h3{color: #096a09; font-size: 18px;}
+.lianjie .inner a{ display: inline-block;color: #999999; margin: 5px 8px;font-size:12px;font-weight: bolder;}
+
+.nav_bot .inner{background-color: #333333;}
+.nav_bot .inner ul{ width: 475px; margin: 0 auto;}
+.nav_bot  .inner ul li{ display: inline-block; margin:7px 12px 7px 0;*float: left;*height:27px;}
+.nav_bot  .inner ul li a{color: #fff;}
+
+.bot .inner img{ display: inline-block;width:90px;height:100px; margin-top:15px; margin-right: 12px;}
+.bot .inner p{display: inline-block;width:880px;height:100px;font-size:12px;font-weight: bolder;margin-top: 24px;line-height: 26px;}
+
+
